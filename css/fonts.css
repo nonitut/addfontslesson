@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "PoiretOne-Regular";
+    src: url("../Poiret_One/PoiretOne-Regular.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1{ 
+    font-family: "PoiretOne-Regular";
+}
